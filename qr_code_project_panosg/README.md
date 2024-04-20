@@ -22,7 +22,7 @@ This Project is about a QR code card.
 
 ### Links
 
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://panosgeor12.github.io/PanosG/qr_code_project_panosg/)
 
 ## Built with
 
