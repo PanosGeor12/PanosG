@@ -1,0 +1,43 @@
+.amenities-info:nth-child(1){
+    list-style-image: url(/images/svgs/router-fill.svg);
+}
+
+.amenities-info:nth-child(2){
+    list-style-image: url(/images/svgs/p-square-fill.svg);
+}
+
+.near-locations:nth-child(1){
+    list-style: url(/images/svgs/coffee.svg);
+}
+
+.near-locations:nth-child(2){
+    list-style: url(/images/svgs/beach.svg);
+}
+
+.near-locations:nth-child(3){
+    list-style: url(/images/svgs/train.svg);
+}
+
+.near-locations:nth-child(4){
+    list-style: url(/images/svgs/supermarket.svg);
+}
+
+.near-locations:nth-child(5){
+    list-style: url(/images/svgs/mountain.svg);
+}
+
+.near-locations:nth-child(6){
+    list-style: url(/images/svgs/baguette.svg);
+}
+
+.near-locations:nth-child(7){
+    list-style: url(/images/svgs/healthcenter.svg);
+}
+
+.near-locations:nth-child(8){
+    list-style: url(/images/svgs/athens.svg);
+} 
+
+/*.near-locations:nth-child(9){
+    
+} */
