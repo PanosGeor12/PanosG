@@ -1,0 +1,82 @@
+@media (max-width:600px){
+    .info{
+        display: block;
+    }
+    
+    #firstParagraph{
+        display: block;
+    }
+
+    #firstParagraph>p{
+        width: 90%;
+        margin: auto;
+    }
+
+    #firstParagraphPic{
+        width: 80vw;
+        padding-top: 50px;
+        margin: auto;
+
+    }
+    
+    #secParagraph{
+        display: block;
+    }
+    
+    #secParagraph>img{
+        display: none;
+    }
+    
+    #secParagraph>p{
+        width: 90%;
+        margin: auto;
+    }
+
+    .amenities{
+        display: block;
+        width: 90%;
+    }
+
+    #amenitiesInfo{
+        width: 90%;
+        margin: auto;
+    }
+
+    #amenitiesInfoPic{
+        width: 100%;
+        margin: auto;
+    }
+
+    #amenitiesInfo>ul{
+        width: 90%;
+    }
+
+    #amenitiesInfo>ul>li{
+        width: 90%;
+    }
+
+    #amenitiesSecPic{
+        display: none;
+    }
+
+    footer{
+        display: block;
+    }
+}
+
+@media(max-width:1200px){
+    .links,#flagUK,#flagGR{
+        display: none;
+    }
+
+    #toggleBtn{
+        display: block;
+    }
+
+}
+/* 
+@media(min-width:1200px){
+    #collapseNav{
+        display: none;
+    }
+} */

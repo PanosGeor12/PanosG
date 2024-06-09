@@ -1,0 +1,108 @@
+.header{
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+
+}
+
+#mainNav{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+
+#mainNav>div{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+h1{
+    font-family: 'DancingScript';
+    font-size: 2em;
+    opacity: 0;
+}
+
+h1>a{
+    text-decoration: none;
+    cursor: default;
+}
+
+h1>a{
+    text-decoration: none;
+    color: white;
+}
+
+.links{
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.links:hover{
+    background-color: rgb(235, 227, 227);
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    font-family: 'Manrope';
+
+}
+
+#collapseNav>a{
+    display: block;
+}
+
+.m-links, #m-flagUK, #m-flagGR{
+    font-size: 1.2em;
+    padding: 20px;
+}
+
+.m-links{
+    font-family: 'Manrope';
+    color: white;
+    text-decoration: none;
+}
+
+.m-links:hover{
+    background-color: rgba(77, 67, 59, 0.8);
+}
+
+#flagUK{
+    background: url(/images/flags/uk.png) no-repeat center;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+}
+
+#m-flagUK{
+    background: url(/images/flags/uk.png) no-repeat center;
+}
+
+#m-flagGR{
+    background: url(/images/flags/gr.png) no-repeat center;
+}
+
+#flagGR{
+    background: url(/images/flags/gr.png) no-repeat center;
+    width: 32px;
+    height: 32px;
+    align-self: center;
+}
+
+.flag>a{
+    width: 32px;
+    height: 32px;
+    opacity: 0;
+}
+
+.m-flag{
+    width: 40px;
+    height: 40px;
+
+}
